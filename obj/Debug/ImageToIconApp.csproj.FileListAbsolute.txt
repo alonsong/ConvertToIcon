@@ -1,0 +1,10 @@
+G:\NetWorkplace\053_CSDNTaskerView\SourceCode\ImageToIconApp\bin\Debug\ImageToIconApp.exe.config
+G:\NetWorkplace\053_CSDNTaskerView\SourceCode\ImageToIconApp\bin\Debug\ImageToIconApp.exe
+G:\NetWorkplace\053_CSDNTaskerView\SourceCode\ImageToIconApp\bin\Debug\ImageToIconApp.pdb
+G:\NetWorkplace\053_CSDNTaskerView\SourceCode\ImageToIconApp\obj\Debug\ImageToIconApp.csproj.AssemblyReference.cache
+G:\NetWorkplace\053_CSDNTaskerView\SourceCode\ImageToIconApp\obj\Debug\ImageToIconApp.FormMainApp.resources
+G:\NetWorkplace\053_CSDNTaskerView\SourceCode\ImageToIconApp\obj\Debug\ImageToIconApp.Properties.Resources.resources
+G:\NetWorkplace\053_CSDNTaskerView\SourceCode\ImageToIconApp\obj\Debug\ImageToIconApp.csproj.GenerateResource.cache
+G:\NetWorkplace\053_CSDNTaskerView\SourceCode\ImageToIconApp\obj\Debug\ImageToIconApp.csproj.CoreCompileInputs.cache
+G:\NetWorkplace\053_CSDNTaskerView\SourceCode\ImageToIconApp\obj\Debug\ImageToIconApp.exe
+G:\NetWorkplace\053_CSDNTaskerView\SourceCode\ImageToIconApp\obj\Debug\ImageToIconApp.pdb
